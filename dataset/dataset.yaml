@@ -1,0 +1,9 @@
+path: .
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: driver
+  1: phone
+  2: cigarette
+  3: drink_container
